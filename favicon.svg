@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Fair-GPTQ</title>
+<desc id="desc">Purple quantization lattice with a coral quantized cell on a soft lavender rounded square.</desc>
+<rect width="128" height="128" rx="23" fill="#f0ebff"/>
+<g fill="none" stroke="#7964d6" stroke-width="1.55" stroke-linecap="round" opacity=".86">
+  <path d="M35 48H94M35 69H94M35 90H94"/>
+  <path d="M47 32V103M68 32V103M89 32V103"/>
+  <path d="M30 48h-5M30 69h-5M30 90h-5M47 27v-5M68 27v-5M89 27v-5"/>
+</g>
+<g fill="none" stroke="#8067df" stroke-width="1.9" stroke-dasharray="2.7 5.7" opacity=".92">
+  <path d="M35 38C47 23 84 24 98 43"/>
+  <path d="M32 81C39 103 79 110 99 88"/>
+</g>
+<g fill="#7660d5">
+  <rect x="40" y="42" width="14" height="14" rx="3"/>
+  <rect x="61" y="42" width="14" height="14" rx="3"/>
+  <rect x="61" y="63" width="14" height="14" rx="3"/>
+  <rect x="40" y="84" width="14" height="14" rx="3"/>
+</g>
+<rect x="82" y="84" width="14" height="14" rx="3" fill="#efaa86"/>
+<g fill="#8067df" opacity=".88">
+  <circle cx="28" cy="61" r="1.7"/><circle cx="101" cy="52" r="1.7"/><circle cx="100" cy="78" r="1.7"/>
+</g>
+</svg>
